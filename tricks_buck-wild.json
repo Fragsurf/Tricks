@@ -1,1 +1,1072 @@
-{"triggers":{"2048":"Awp Slope","2049":"Behind Rifle","2050":"Under Shotgun","2051":"Aug Top","2052":"Shotgun Spine","2053":"Shotgun Lower Spine","2054":"Curved Spine","2055":"Buy Platform","2056":"Buy Boost","2057":"Side Target","2058":"Awp Water","2059":"Spawn Slant","2060":"Bent Gap","2061":"Shotgun Platform","2062":"Target","2063":"Shotgun Top Slope","2064":"Rifle Top","2065":"Rifle Slope","2066":"Aug Slope","2067":"Behind Awp","2068":"Above Awp Platform","2085":"Awp/Scout Spine","2086":"Main Spine","2087":"Side Spines","2088":"Behind Low Shotgun Ramp","2089":"Under Jail Bridge","2090":"Over Jail Bridge","2091":"Over Rifle","2094":"Over Spawn Wall","2097":"Spawn Tele","2099":"Top Of Bent Ramp","-9999":"[teleporter]","2001":"Spawn","2002":"Map Divide","2003":"whop","2004":"Spawn Water","2005":"Curved Ramp","2006":"Shotgun Ramp","2007":"Bent Ramp","2008":"Straight Ramp","2009":"Main Ramp","2010":"Awp Ramp","2011":"Scout Ramp","2012":"Behind Main Ramp","2013":"Over Main Ramp","2014":"Spawn Top","2015":"Shotgun Water","2016":"Shotgun Boost","2017":"Shotgun Slope","2018":"Top","2019":"Shotgun Top","2020":"Awp Slant","2021":"Scout Slant","2022":"Main Slant","2023":"Straight Slant","2024":"Bent Slant","2025":"Awp Top Slant","2027":"Rifle Water","2028":"Rifle Bridge","2029":"Jail Bridge","2030":"Jail Boost","2031":"Rifle Boost","2032":"Rifle Button","2033":"Jail Top","2034":"Jail Lift","2035":"Jail","2036":"Jail Ramp","2037":"SMG Water","2038":"Aug Water","2039":"SMG Boost","2040":"Behind SMG","2041":"Behind Aug","2042":"Awp Tele","2043":"Jail Tele","2044":"Jail Wall","2045":"Jail Pillar","2046":"Awp Platform","2047":"Under Rifle"},"tricks":[{"path":[2025,2002,2025],"points":100,"name":"Awp Top Slant Gap","id":3086},{"path":[2063,2065,2066,2065],"points":250,"name":"Around The Tops","id":3047},{"path":[2056,2009,2019],"points":250,"name":"Big Flick","id":3075},{"path":[2033,2034,2035,2036,2045],"points":350,"name":"Petenado (Yump Edition)","id":3059},{"path":[2021,2067,2041,2002,2041,2038],"points":75,"name":"Aug Wrap","id":3061},{"path":[2036,2020,2046],"points":420,"name":"Vump","id":3038},{"path":[2017,2063],"points":75,"name":"Wallclimb","id":3050},{"path":[2036,2037,2021,2040,2002,2040,2038],"points":800,"name":"Yumpin Unda","id":3022},{"path":[2055,2011,2007,2006],"points":250,"name":"Buy Me A Shotgun","id":3035},{"path":[2019,2006,2008,2011,2046,2027],"points":175,"name":"Gunner","id":3057},{"path":[2039,2007,2006,2063],"points":175,"name":"Apple Sauce","id":3068},{"path":[2064,2010,2067,2011,2040,2002,2011,2027],"points":500,"name":"Hard Extended Rifle Burs Remix","id":3009},{"path":[2036,2043],"points":100,"name":"Tele Yump","id":3026},{"path":[2006,2088,2062,2018],"points":200,"name":"wud","id":3021},{"path":[2099,2024,2065,2011,2066,2011,2065],"points":200,"name":"Extended Aug Rise","id":3066},{"path":[2036,2051],"points":700,"name":"Hard Yump","id":3013},{"path":[2019,2006,2050,2008,2060,2005],"points":550,"name":"Shotty Bender","id":3034},{"path":[2064,2010,2067,2011,2002,2011,2027],"points":250,"name":"Extended Rifle Burs Remix","id":3008},{"path":[2023,2002,2023],"points":75,"name":"Slant Gap","id":3067},{"path":[2025,2048,2046],"points":450,"name":"Mini Walk","id":3071},{"path":[2039,2009,2005,2007,2046,2002,2011,2046],"points":150,"name":"Banana Smoothie","id":3072},{"path":[2099,2024,2065,2010,2067,2011,2033],"points":200,"name":"Break-in","id":3087},{"path":[2009,2012,2006,2050,2002,2050,2006,2009],"points":250,"name":"Extended Main Wrap","id":3055},{"path":[2017,2063,2009,2018],"points":300,"name":"Wallclimb Go Home","id":3051},{"path":[2056,2009,2094,2051],"points":600,"name":"Hard Palme","id":3080},{"path":[2046,2011,2040,2002,2040,2011,2033],"points":150,"name":"Go To Jail","id":3041},{"path":[2019,2006,2050,2007,2013,2008],"points":150,"name":"Shotty Gap","id":3017},{"path":[2036,2033],"points":50,"name":"Jail Yump","id":3025},{"path":[2001,2009,2005,2007,2046],"points":200,"name":"Banana Split","id":3023},{"path":[2056,2009,2094,2038],"points":350,"name":"Palme","id":3077},{"path":[2036,2038],"points":75,"name":"Yump","id":3010},{"path":[2007,2060,2007],"points":50,"name":"Bent Wrap","id":3030},{"path":[2014,2009,2008,2010,2002,2046],"points":200,"name":"Awp Rise","id":3036},{"path":[2022,2012,2009],"points":300,"name":"V Main Wrap","id":3053},{"path":[2009,2012,2013,2012,2013,2012,2009],"points":150,"name":"Triple Main Wrap","id":3014},{"path":[2039,2009,2006,2002,2006,2009,2046],"points":400,"name":"Sweet Potato","id":3074},{"path":[2015,2062,2009,2057,2046],"points":75,"name":"Target Practice","id":3016},{"path":[2099,2024,2008,2024],"points":350,"name":"Straight Walk","id":3065},{"path":[2009,2012,2009],"points":10,"name":"Main Wrap","id":3002},{"path":[2033,2034,2035],"points":200,"name":"Petenado","id":3060},{"path":[2058,2002,2058],"points":250,"name":"Awp Hop","id":3082},{"path":[2099,2024,2065,2011,2066],"points":150,"name":"Aug Rise","id":3046},{"path":[2001,2009,2005,2008,2011,2002,2011,2008,2005,2009,2037],"points":75,"name":"Around The World","id":3037},{"path":[2036,2038,2036,2037],"points":150,"name":"Down Yump","id":3032},{"path":[2001,2009,2005,2006,2050,2002,2050,2007,2058],"points":700,"name":"Shotgun Banana Split","id":3031},{"path":[2008,2002,2008],"points":25,"name":"Straight","id":3028},{"path":[2014,2027],"points":400,"name":"Leez Strafe","id":3070},{"path":[2009,2012,2013,2012,2001],"points":400,"name":"YEETnado","id":3011},{"path":[2027,2090,2047,2011],"points":100,"name":"0spin","id":3043},{"path":[2057,2020,2035],"points":300,"name":"Aids Slant","id":3045},{"path":[2056,2009,2094,2055],"points":650,"name":"Yarge Palme","id":3081},{"path":[2001,2009,2035,2036,2037],"points":350,"name":"Easy Yump From Spawn","id":3039},{"path":[2017,2063,2065,2066,2065],"points":650,"name":"Wallclimb World Tour","id":3052},{"path":[2016,2005,2002,2008,2012,2028],"points":300,"name":"Mango Gelato","id":3078},{"path":[2064,2011,2038],"points":100,"name":"Rifle Burs","id":3005},{"path":[2009,2012,2022],"points":50,"name":"Main Wrap V","id":3054},{"path":[2016,2005,2002,2008,2012,2009,2005,2015],"points":350,"name":"Mango Go Home","id":3079},{"path":[2007,2018,2007,2014,2007,2001],"points":500,"name":"That's How We Bend","id":3076},{"path":[2019,2006,2009],"points":150,"name":"Shotty Flick","id":3056},{"path":[2036,2040,2002,2040,2037],"points":100,"name":"Yump Around","id":3044},{"path":[2009,2012,2013,2012,2009],"points":75,"name":"Double Main Wrap","id":3003},{"path":[2025,2010,2024],"points":100,"name":"Awp Gap","id":3018},{"path":[2046,2010,2049,2091,2011,2040,2002,2040,2011,2033],"points":300,"name":"Do Not Pass Go","id":3042},{"path":[2064,2011,2002,2011,2027],"points":200,"name":"Extended Rifle Burs","id":3006},{"path":[2001,2009,2007,2065,2008,2005,2009,2038],"points":400,"name":"Jib's Banger","id":3040},{"path":[2007,2002,2007],"points":25,"name":"Bend","id":3027},{"path":[2021,2040,2002,2040,2037],"points":25,"name":"SMG Wrap","id":3062},{"path":[2009,2012,2013,2012,2013,2012,2013,2012,2009],"points":700,"name":"Quadruple Main Wrap","id":3015},{"path":[2036,2037],"points":25,"name":"Easy Yump","id":3012},{"path":[2064,2010,2067,2011,2038],"points":150,"name":"Rifle Burs Remix","id":3007},{"path":[2011,2047,2008,2019],"points":125,"name":"Rifle Bop","id":3033}],"modified":1514100574,"gametype":"css","editors":[{"steamid":"76561198155616743","name":"bogroll"},{"steamid":"76561198045479800","name":"pete"},{"steamid":"76561197969042354","name":"adzicents"}],"gamemap":"surf_buck-wild"}
+{
+  "whop_velocity": "0,0,0",
+  "whop_origin": "0,0,0",
+  "tune": null,
+  "triggers": {
+    "2048": "Awp Slope",
+    "2049": "Behind Rifle",
+    "2050": "Under Shotgun",
+    "2051": "Aug Top",
+    "2052": "Shotgun Spine",
+    "2053": "Shotgun Lower Spine",
+    "2054": "Curved Spine",
+    "2055": "Buy Platform",
+    "2056": "Buy Boost",
+    "2057": "Side Target",
+    "2058": "Awp Water",
+    "2059": "Spawn Slant",
+    "2060": "Bent Gap",
+    "2061": "Shotgun Platform",
+    "2062": "Target",
+    "2063": "Shotgun Top Slope",
+    "2064": "Rifle Top",
+    "2065": "Rifle Slope",
+    "2066": "Aug Slope",
+    "2067": "Behind Awp",
+    "2068": "Above Awp Platform",
+    "2085": "Awp/Scout Spine",
+    "2086": "Main Spine",
+    "2087": "Side Spines",
+    "2088": "Behind Low Shotgun Ramp",
+    "2089": "Under Jail Bridge",
+    "2090": "Over Jail Bridge",
+    "2091": "Over Rifle",
+    "2094": "Over Spawn Wall",
+    "2097": "Spawn Tele",
+    "2099": "Top Of Bent Ramp",
+    "-9999": "[teleporter]",
+    "2001": "Spawn",
+    "2002": "Map Divide",
+    "2003": "whop",
+    "2004": "Spawn Water",
+    "2005": "Curved Ramp",
+    "2006": "Shotgun Ramp",
+    "2007": "Bent Ramp",
+    "2008": "Straight Ramp",
+    "2009": "Main Ramp",
+    "2010": "Awp Ramp",
+    "2011": "Scout Ramp",
+    "2012": "Behind Main Ramp",
+    "2013": "Over Main Ramp",
+    "2014": "Spawn Top",
+    "2015": "Shotgun Water",
+    "2016": "Shotgun Boost",
+    "2017": "Shotgun Slope",
+    "2018": "Top",
+    "2019": "Shotgun Top",
+    "2020": "Awp Slant",
+    "2021": "Scout Slant",
+    "2022": "Main Slant",
+    "2023": "Straight Slant",
+    "2024": "Bent Slant",
+    "2025": "Awp Top Slant",
+    "2027": "Rifle Water",
+    "2028": "Rifle Bridge",
+    "2029": "Jail Bridge",
+    "2030": "Jail Boost",
+    "2031": "Rifle Boost",
+    "2032": "Rifle Button",
+    "2033": "Jail Top",
+    "2034": "Jail Lift",
+    "2035": "Jail",
+    "2036": "Jail Ramp",
+    "2037": "SMG Water",
+    "2038": "Aug Water",
+    "2039": "SMG Boost",
+    "2040": "Behind SMG",
+    "2041": "Behind Aug",
+    "2042": "Awp Tele",
+    "2043": "Jail Tele",
+    "2044": "Jail Wall",
+    "2045": "Jail Pillar",
+    "2046": "Awp Platform",
+    "2047": "Under Rifle"
+  },
+  "tricks": [
+    {
+      "id": 0,
+      "name": "Awp Top Slant Gap",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2025,
+        2002,
+        2025
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Around The Tops",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2063,
+        2065,
+        2066,
+        2065
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Big Flick",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2056,
+        2009,
+        2019
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Petenado (Yump Edition)",
+      "author": null,
+      "points": 350,
+      "prespeed": false,
+      "path": [
+        2033,
+        2034,
+        2035,
+        2036,
+        2045
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Aug Wrap",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2021,
+        2067,
+        2041,
+        2002,
+        2041,
+        2038
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vump",
+      "author": null,
+      "points": 420,
+      "prespeed": false,
+      "path": [
+        2036,
+        2020,
+        2046
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Wallclimb",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2017,
+        2063
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Yumpin Unda",
+      "author": null,
+      "points": 800,
+      "prespeed": false,
+      "path": [
+        2036,
+        2037,
+        2021,
+        2040,
+        2002,
+        2040,
+        2038
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Buy Me A Shotgun",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2055,
+        2011,
+        2007,
+        2006
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Gunner",
+      "author": null,
+      "points": 175,
+      "prespeed": false,
+      "path": [
+        2019,
+        2006,
+        2008,
+        2011,
+        2046,
+        2027
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Apple Sauce",
+      "author": null,
+      "points": 175,
+      "prespeed": false,
+      "path": [
+        2039,
+        2007,
+        2006,
+        2063
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Hard Extended Rifle Burs Remix",
+      "author": null,
+      "points": 500,
+      "prespeed": false,
+      "path": [
+        2064,
+        2010,
+        2067,
+        2011,
+        2040,
+        2002,
+        2011,
+        2027
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tele Yump",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2036,
+        2043
+      ]
+    },
+    {
+      "id": 13,
+      "name": "wud",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2006,
+        2088,
+        2062,
+        2018
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Extended Aug Rise",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2099,
+        2024,
+        2065,
+        2011,
+        2066,
+        2011,
+        2065
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Hard Yump",
+      "author": null,
+      "points": 700,
+      "prespeed": false,
+      "path": [
+        2036,
+        2051
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Shotty Bender",
+      "author": null,
+      "points": 550,
+      "prespeed": false,
+      "path": [
+        2019,
+        2006,
+        2050,
+        2008,
+        2060,
+        2005
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Extended Rifle Burs Remix",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2064,
+        2010,
+        2067,
+        2011,
+        2002,
+        2011,
+        2027
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Slant Gap",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2023,
+        2002,
+        2023
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Mini Walk",
+      "author": null,
+      "points": 450,
+      "prespeed": false,
+      "path": [
+        2025,
+        2048,
+        2046
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Banana Smoothie",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2039,
+        2009,
+        2005,
+        2007,
+        2046,
+        2002,
+        2011,
+        2046
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Break-in",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2099,
+        2024,
+        2065,
+        2010,
+        2067,
+        2011,
+        2033
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Extended Main Wrap",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2006,
+        2050,
+        2002,
+        2050,
+        2006,
+        2009
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Wallclimb Go Home",
+      "author": null,
+      "points": 300,
+      "prespeed": false,
+      "path": [
+        2017,
+        2063,
+        2009,
+        2018
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Hard Palme",
+      "author": null,
+      "points": 600,
+      "prespeed": false,
+      "path": [
+        2056,
+        2009,
+        2094,
+        2051
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Go To Jail",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2046,
+        2011,
+        2040,
+        2002,
+        2040,
+        2011,
+        2033
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Shotty Gap",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2019,
+        2006,
+        2050,
+        2007,
+        2013,
+        2008
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Jail Yump",
+      "author": null,
+      "points": 50,
+      "prespeed": false,
+      "path": [
+        2036,
+        2033
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Banana Split",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2001,
+        2009,
+        2005,
+        2007,
+        2046
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Palme",
+      "author": null,
+      "points": 350,
+      "prespeed": false,
+      "path": [
+        2056,
+        2009,
+        2094,
+        2038
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Yump",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2036,
+        2038
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Bent Wrap",
+      "author": null,
+      "points": 50,
+      "prespeed": false,
+      "path": [
+        2007,
+        2060,
+        2007
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Awp Rise",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2014,
+        2009,
+        2008,
+        2010,
+        2002,
+        2046
+      ]
+    },
+    {
+      "id": 33,
+      "name": "V Main Wrap",
+      "author": null,
+      "points": 300,
+      "prespeed": false,
+      "path": [
+        2022,
+        2012,
+        2009
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Triple Main Wrap",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2013,
+        2012,
+        2013,
+        2012,
+        2009
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Sweet Potato",
+      "author": null,
+      "points": 400,
+      "prespeed": false,
+      "path": [
+        2039,
+        2009,
+        2006,
+        2002,
+        2006,
+        2009,
+        2046
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Target Practice",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2015,
+        2062,
+        2009,
+        2057,
+        2046
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Straight Walk",
+      "author": null,
+      "points": 350,
+      "prespeed": false,
+      "path": [
+        2099,
+        2024,
+        2008,
+        2024
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Main Wrap",
+      "author": null,
+      "points": 10,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2009
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Petenado",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2033,
+        2034,
+        2035
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Awp Hop",
+      "author": null,
+      "points": 250,
+      "prespeed": false,
+      "path": [
+        2058,
+        2002,
+        2058
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Aug Rise",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2099,
+        2024,
+        2065,
+        2011,
+        2066
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Around The World",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2001,
+        2009,
+        2005,
+        2008,
+        2011,
+        2002,
+        2011,
+        2008,
+        2005,
+        2009,
+        2037
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Down Yump",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2036,
+        2038,
+        2036,
+        2037
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Shotgun Banana Split",
+      "author": null,
+      "points": 700,
+      "prespeed": false,
+      "path": [
+        2001,
+        2009,
+        2005,
+        2006,
+        2050,
+        2002,
+        2050,
+        2007,
+        2058
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Straight",
+      "author": null,
+      "points": 25,
+      "prespeed": false,
+      "path": [
+        2008,
+        2002,
+        2008
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Leez Strafe",
+      "author": null,
+      "points": 400,
+      "prespeed": false,
+      "path": [
+        2014,
+        2027
+      ]
+    },
+    {
+      "id": 47,
+      "name": "YEETnado",
+      "author": null,
+      "points": 400,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2013,
+        2012,
+        2001
+      ]
+    },
+    {
+      "id": 48,
+      "name": "0spin",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2027,
+        2090,
+        2047,
+        2011
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Aids Slant",
+      "author": null,
+      "points": 300,
+      "prespeed": false,
+      "path": [
+        2057,
+        2020,
+        2035
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Yarge Palme",
+      "author": null,
+      "points": 650,
+      "prespeed": false,
+      "path": [
+        2056,
+        2009,
+        2094,
+        2055
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Easy Yump From Spawn",
+      "author": null,
+      "points": 350,
+      "prespeed": false,
+      "path": [
+        2001,
+        2009,
+        2035,
+        2036,
+        2037
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Wallclimb World Tour",
+      "author": null,
+      "points": 650,
+      "prespeed": false,
+      "path": [
+        2017,
+        2063,
+        2065,
+        2066,
+        2065
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Mango Gelato",
+      "author": null,
+      "points": 300,
+      "prespeed": false,
+      "path": [
+        2016,
+        2005,
+        2002,
+        2008,
+        2012,
+        2028
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Rifle Burs",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2064,
+        2011,
+        2038
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Main Wrap V",
+      "author": null,
+      "points": 50,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2022
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Mango Go Home",
+      "author": null,
+      "points": 350,
+      "prespeed": false,
+      "path": [
+        2016,
+        2005,
+        2002,
+        2008,
+        2012,
+        2009,
+        2005,
+        2015
+      ]
+    },
+    {
+      "id": 57,
+      "name": "That's How We Bend",
+      "author": null,
+      "points": 500,
+      "prespeed": false,
+      "path": [
+        2007,
+        2018,
+        2007,
+        2014,
+        2007,
+        2001
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Shotty Flick",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2019,
+        2006,
+        2009
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Yump Around",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2036,
+        2040,
+        2002,
+        2040,
+        2037
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Double Main Wrap",
+      "author": null,
+      "points": 75,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2013,
+        2012,
+        2009
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Awp Gap",
+      "author": null,
+      "points": 100,
+      "prespeed": false,
+      "path": [
+        2025,
+        2010,
+        2024
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Do Not Pass Go",
+      "author": null,
+      "points": 300,
+      "prespeed": false,
+      "path": [
+        2046,
+        2010,
+        2049,
+        2091,
+        2011,
+        2040,
+        2002,
+        2040,
+        2011,
+        2033
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Extended Rifle Burs",
+      "author": null,
+      "points": 200,
+      "prespeed": false,
+      "path": [
+        2064,
+        2011,
+        2002,
+        2011,
+        2027
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Jib's Banger",
+      "author": null,
+      "points": 400,
+      "prespeed": false,
+      "path": [
+        2001,
+        2009,
+        2007,
+        2065,
+        2008,
+        2005,
+        2009,
+        2038
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Bend",
+      "author": null,
+      "points": 25,
+      "prespeed": false,
+      "path": [
+        2007,
+        2002,
+        2007
+      ]
+    },
+    {
+      "id": 66,
+      "name": "SMG Wrap",
+      "author": null,
+      "points": 25,
+      "prespeed": false,
+      "path": [
+        2021,
+        2040,
+        2002,
+        2040,
+        2037
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Quadruple Main Wrap",
+      "author": null,
+      "points": 700,
+      "prespeed": false,
+      "path": [
+        2009,
+        2012,
+        2013,
+        2012,
+        2013,
+        2012,
+        2013,
+        2012,
+        2009
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Easy Yump",
+      "author": null,
+      "points": 25,
+      "prespeed": false,
+      "path": [
+        2036,
+        2037
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Rifle Burs Remix",
+      "author": null,
+      "points": 150,
+      "prespeed": false,
+      "path": [
+        2064,
+        2010,
+        2067,
+        2011,
+        2038
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Rifle Bop",
+      "author": null,
+      "points": 125,
+      "prespeed": false,
+      "path": [
+        2011,
+        2047,
+        2008,
+        2019
+      ]
+    }
+  ],
+  "chains": null,
+  "TrickTree": null,
+  "lateload": null
+}
