@@ -1,0 +1,5335 @@
+{
+    "whop_origin": "68,36,0",
+    "whop_velocity": "0,0,0",
+	"tune": "csgo",
+    "triggers": {
+        "2004": "T-Spawn",
+        "2005": "main blunt",
+        "2006": "fish hook wedge",
+        "2007": "triomino 1",
+        "2008": "triomino 2",
+        "2009": "triomino 3",
+        "2016": "Jail Floor02",
+        "2033": "SKI Sign",
+        "2036": "fish hook ramp",
+        "2037": "hamburger",
+        "2038": "main drag",
+        "2039": "main ramp",
+        "2040": "main wings",
+        "2041": "sriracha",
+        "2042": "starlight north",
+        "2043": "starlight south",
+        "2044": "T2 Big Water",
+        "2045": "Jail Wall02",
+        "2047": "T2 Big Water Outskirts",
+        "2048": "Spawn Roof Booster02",
+        "2052": "Telepad Water",
+        "2053": "Jail Ledge02",
+        "2055": "T-Spawn Water",
+        "2056": "CT-Spawn Water",
+        "2057": "CT-Spawn",
+        "2059": "Tower Run-up Water",
+        "2060": "Tower Base Water",
+        "2061": "Elevator Entrance",
+        "2062": "Elevator Mid Entrance",
+        "2063": "Tower Sign",
+        "2064": "Elevator Exit",
+        "2065": "Through T2 Tower",
+        "2066": "T2 Left Hole",
+        "2067": "T2 Tower Platform",
+        "2071": "T2 Tower Water02",
+        "2072": "T2 Right Hole",
+        "2073": "T2 Top Left Block",
+        "2074": "T2 Lower Left Block",
+        "2075": "T2 Lower Right Block",
+        "2076": "T2 Top Right Block",
+        "2077": "Healbot Ladder02",
+        "2078": "Side Spawn Ladder",
+        "2079": "Side Spawn Lower Platform",
+        "2080": "Side Spawn Upper Platform",
+        "2081": "Center Wedge Platform",
+        "2082": "Awp Platform",
+        "2087": "T1 Ladder02",
+        "2088": "T1 Water",
+        "2089": "T1 Right Platform",
+        "2091": "T1 Left Platform",
+        "2093": "T1 Left Rail",
+        "2094": "T1 Right Rail",
+        "2095": "T1 Center Rail",
+        "2096": "Bonus Cube",
+        "2097": "T-Spawn Slant",
+        "2098": "CT-Spawn Slant",
+        "2099": "Spawn Divide",
+        "2100": "Healbot Platform",
+        "2101": "Healbot Sign",
+        "2102": "Healbot Ramp",
+        "2103": "Through T2 Back Left",
+        "2104": "Through T2 Front Left",
+        "2105": "Through T2 Front Right",
+        "2106": "Through T2 Back Right",
+        "2107": "T2 Left Ladders",
+        "2109": "T2 Right Ladders",
+        "2111": "Mini Ramp Spine",
+        "2112": "Mini Ramp02",
+        "2113": "Scout Hole",
+        "2114": "Scout Platform",
+        "2115": "Tower Platform",
+        "2116": "Tower Top",
+        "2117": "Jail Side Rail",
+        "2118": "T-Spawn Hole Front",
+        "2120": "T-Spawn Hole Back",
+        "2122": "CT-Spawn Hole Back",
+        "2124": "CT-Spawn Hole Front",
+        "2126": "Side Spawn Booster",
+        "2127": "Spawn Roof Water",
+        "2128": "Spawn Roof Platform",
+        "2129": "Gun Room",
+        "2130": "Gun Room Sign",
+        "2131": "Elevator",
+        "2132": "North East Booster",
+        "2133": "Behind Main Ramp",
+        "2140": "T-Spawn Teleporter",
+        "2141": "CT-Spawn Teleporter",
+        "2142": "Jail Teleporter",
+        "2143": "T1 Teleporter",
+        "2144": "T2 Teleporter",
+        "2145": "Weapons Teleporter",
+        "2146": "Ground Teleporter",
+        "2147": "Mario Room Teleporter",
+        "2148": "Mario Jail Teleporter",
+        "2149": "Mario Tower Teleporter",
+        "2150": "Gun Room Ramp",
+        "2151": "rams horn",
+        "2155": "Long Ramp",
+        "2156": "Middle Wing",
+        "2157": "Left Wedge",
+        "2158": "Right Wedge",
+        "2159": "Jail Booster",
+        "2160": "Banana Ramp",
+        "2161": "T2 Right Wing",
+        "2162": "T2 Left Wing",
+        "2163": "Keith Ramp",
+        "2164": "Kevin Ramp",
+        "2165": "Awp Ramp",
+        "2166": "Section Ramp",
+        "2167": "Rear Spawn Ramp",
+        "2170": "Banana Platform",
+        "2171": "T1 Ramp Slant",
+        "2172": "Bonus Platform",
+        "2173": "Long Ramp Slant",
+        "2174": "CT Scout Pad",
+        "2175": "T Scout Pad",
+        "2176": "Diddy Ramp Platform",
+        "2177": "Section Slant",
+        "2178": "Mario Room Entrance",
+        "2179": "Behind Spawn",
+        "2180": "T2 Center Platform",
+        "2181": "Behind T2 Tower Wedge",
+        "2182": "Jail Booster Tip",
+        "2184": "Under Healbot",
+        "2185": "Over Main",
+        "2203": "Behind Long Ramp",
+        "2210": "Over Long Ramp",
+        "2221": "Behind Banana Ramp",
+        "2226": "Over Banana Ramp",
+        "2230": "Banana Hole",
+        "2232": "Behind Mario Tower",
+        "2233": "Under Rear Spawn Ramp",
+        "2235": "Healbot Ramp Tip",
+        "2240": "North East Booster Platform",
+        "2242": "T2 Big Water ANTI BHOP CORNER",
+        "2243": "Main Drag/Wings Ramp Tip",
+        "2244": "Behind T2 Wedge Ramp Tip",
+        "2246": "Sriracha Tip",
+        "2248": "Kevin Ramp Tip",
+        "2249": "Keith Ramp Tip",
+        "2250": "Triomino 1 Tip",
+        "2251": "Triomino 2 Tip",
+        "2252": "Triomino 3 Tip",
+        "2253": "Fish Hook Wedge Tip",
+        "2254": "Fish Hook Ramp Tip",
+        "2255": "Right Wedge Tip",
+        "2256": "Middle Wing Tip",
+        "2257": "Left Wedge Tip",
+        "2258": "Hamburger Ramp Tip",
+        "2259": "Section Ramp Tip",
+        "2260": "Weapons Teleporter Platform",
+        "2261": "Telepad Platform",
+        "2263": "Jail Box 3",
+        "2264": "Jail Box 1",
+        "2265": "Jail Box 2",
+        "2266": "Tower Box 2",
+        "2267": "Tower Box 1",
+        "2268": "Tower Box 3",
+        "2269": "Letter J Top",
+        "2270": "Letter T Top",
+        "2271": "Letter T1 Top",
+        "2275": "Under Awp Ramp",
+        "2277": "North East Booster Prevention",
+        "2278": "Main Ramp Tip",
+        "2280": "Long Ramp02",
+        "2282": "Banana Ramp Tip",
+        "2285": "AutoBhop Sriracha 2",
+        "2307": "Under T2 Left Wing",
+        "2309": "Under T2 Right Wing",
+        "2311": "Mario Room Secret Passage",
+        "2316": "Rear Spawn Mini Hole",
+        "2325": "Diddy Ramp",
+        "2326": "Diddy RampZ",
+        "2339": "Bonus Rear Slant",
+        "2348": "Letter W",
+        "2353": "Letter CT",
+        "2354": "Through CT Letters",
+        "2355": "Letters T2",
+        "2363": "Under Blunt/Wings/Drag",
+        "4444": "AutoBhop Fish Wedge",
+        "4445": "AutoBhop Awp Ramp",
+        "4446": "AutoBhop Banana 1",
+        "4447": "AutoBhop Banana 2",
+        "4448": "AutoBhop Bonus1",
+        "4449": "AutoBhop Main 2",
+        "4450": "AutoBhop Main 1",
+        "4451": "AutoBhop Tromino 2",
+        "4452": "AutoBhop Tromino 1",
+        "4453": "AutoBhop FishHook 1",
+        "4454": "AutoBhop Bonus2",
+        "4455": "AutoBhop Sriracha 1",
+        "4456": "AutoBhop Hamburger",
+        "4457": "AutoBhop T2 Left Wing",
+        "4458": "AutoBhop Long 2",
+        "4459": "AutoBhop Long 1",
+        "4460": "AutoBhop Kevin",
+        "4461": "AutoBhop T2 Right Wing",
+        "4462": "AutoBhop Fishhook 2",
+        "4463": "AutoBhop Mini",
+        "4464": "AutoBhop Keith",
+        "4465": "AutoBhop Right Wedge",
+        "4466": "AutoBhop Main Blunt",
+        "4467": "AutoBhop Middle Wing",
+        "4468": "AutoBhop Left Wing",
+        "4469": "AutoBhop Main Wings",
+        "4470": "AutoBhop Gun Room Ramp",
+        "4471": "AutoBhop Rear Spawn Ramp",
+        "8242": "Jail Booster needed Passthrough"
+    },
+    "chains": {
+        "2055": 2004,
+        "2056": 2057,
+        "2071": 2067
+    },
+    "tricks": [
+        {
+            "path": [
+                2016,
+                2039,
+                2055
+            ],
+            "points": 150,
+            "name": "Snowman gap",
+            "id": 3265
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2165,
+                2008,
+                2156,
+                2038,
+                2065,
+                2161,
+                2005,
+                2156,
+                2158,
+                2161,
+                2067
+            ],
+            "points": 550,
+            "name": "Hard luckY's journey",
+            "id": 3099
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2166,
+                2072,
+                2181,
+                2036,
+                2006,
+                2157,
+                2156,
+                2005,
+                2033
+            ],
+            "points": 900,
+            "name": "nigxus amazing adventure",
+            "id": 3371
+        },
+        {
+            "path": [
+                2244,
+                2181,
+                2036,
+                2165,
+                2044
+            ],
+            "points": 325,
+            "name": "Dragonfly Tuna",
+            "id": 3176
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2067,
+                2005,
+                2033
+            ],
+            "points": 500,
+            "name": "Advanced Centrum",
+            "id": 3470
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2008,
+                2007,
+                2161,
+                2162,
+                2039,
+                2133,
+                2008,
+                2007,
+                2039,
+                2124,
+                2122,
+                2145
+            ],
+            "points": 800,
+            "name": "Blue Partyhat Remix",
+            "id": 3408
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2008,
+                2157,
+                2008,
+                2157,
+                2062
+            ],
+            "points": 950,
+            "name": "Bogroll Rise Remix",
+            "id": 3208
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2161,
+                2203,
+                2155,
+                2167,
+                2133,
+                2158
+            ],
+            "points": 525,
+            "name": "A trick SirGrown can do",
+            "id": 3469
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2155,
+                2203,
+                2155,
+                2039,
+                2145
+            ],
+            "points": 700,
+            "name": "Syphax",
+            "id": 3272
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 800,
+            "name": "Virtuoso",
+            "id": 3040
+        },
+        {
+            "path": [
+                2081,
+                2040,
+                2038,
+                2180,
+                2065,
+                2036,
+                2082
+            ],
+            "points": 500,
+            "name": "AWP Rise",
+            "id": 3090
+        },
+        {
+            "path": [
+                2127,
+                2036,
+                2006,
+                2232,
+                2167,
+                2005,
+                2230,
+                2226,
+                2221,
+                2160,
+                2005,
+                2045
+            ],
+            "points": 900,
+            "name": "Pitbull's Hurricane",
+            "id": 3410
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2240
+            ],
+            "points": 650,
+            "name": "Watermelon",
+            "id": 3091
+        },
+        {
+            "path": [
+                2101,
+                2162,
+                2005,
+                2161,
+                2067
+            ],
+            "points": 900,
+            "name": "Ryuko Rise",
+            "id": 3504
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2161,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 300,
+            "name": "Gunpowder",
+            "id": 3215
+        },
+        {
+            "path": [
+                2173,
+                2096
+            ],
+            "points": 385,
+            "name": "More Annoying",
+            "id": 3126
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2059
+            ],
+            "points": 325,
+            "name": "Longer Stretch",
+            "id": 3117
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2226,
+                2221,
+                2160
+            ],
+            "points": 250,
+            "name": "Double Banana Wrap",
+            "id": 3048
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2105,
+                2106,
+                2161,
+                2162,
+                2161,
+                2033
+            ],
+            "points": 700,
+            "name": "Hard Main to Sign from Jail v2",
+            "id": 3286
+        },
+        {
+            "path": [
+                2101,
+                2162,
+                2165,
+                2036,
+                2181,
+                2161,
+                2005,
+                2156,
+                2157,
+                2062
+            ],
+            "points": 500,
+            "name": "Orgrimmar",
+            "id": 3452
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2162,
+                2161,
+                2177,
+                2145
+            ],
+            "points": 800,
+            "name": "Hard samurai",
+            "id": 3127
+        },
+        {
+            "path": [
+                2008,
+                2232,
+                2008
+            ],
+            "points": 100,
+            "name": "Savitar wrap",
+            "id": 3323
+        },
+        {
+            "path": [
+                2016,
+                2041,
+                2039,
+                2041
+            ],
+            "points": 400,
+            "name": "Jail Strafe Return",
+            "id": 3299
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2040,
+                2038,
+                2161
+            ],
+            "points": 1000,
+            "name": "Get rampstrafin",
+            "id": 3483
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2067
+            ],
+            "points": 1300,
+            "name": "Impossible Rise",
+            "id": 3356
+        },
+        {
+            "path": [
+                2052,
+                2133,
+                2039
+            ],
+            "points": 175,
+            "name": "Ocean Jump Remix",
+            "id": 3335
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2309,
+                2181,
+                2036,
+                2275,
+                2007
+            ],
+            "points": 600,
+            "name": "Lovely Jubbly",
+            "id": 3216
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2161,
+                2039,
+                2052,
+                2155,
+                2067
+            ],
+            "points": 1100,
+            "name": "Sunrise",
+            "id": 3213
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2146,
+                2016,
+                2162
+            ],
+            "points": 500,
+            "name": "Wickstead",
+            "id": 3171
+        },
+        {
+            "path": [
+                2160,
+                2232,
+                2166,
+                2151,
+                2116
+            ],
+            "points": 500,
+            "name": "The Tomos",
+            "id": 3437
+        },
+        {
+            "path": [
+                2057,
+                2039,
+                2162
+            ],
+            "points": 850,
+            "name": "Fuzzaroonie",
+            "id": 3172
+        },
+        {
+            "path": [
+                2004,
+                2089
+            ],
+            "points": 300,
+            "name": "T1 Hop",
+            "id": 3078
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2179,
+                2039,
+                2033
+            ],
+            "points": 1225,
+            "name": "Wrap Rise",
+            "id": 3414
+        },
+        {
+            "path": [
+                2246,
+                2041,
+                2144
+            ],
+            "points": 300,
+            "name": "Dip & Dive",
+            "id": 3450
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2226,
+                2230,
+                2226,
+                2221,
+                2160
+            ],
+            "points": 700,
+            "name": "Banana Split",
+            "id": 3049
+        },
+        {
+            "path": [
+                2067,
+                2165,
+                2060
+            ],
+            "points": 600,
+            "name": "Mini Flight",
+            "id": 3428
+        },
+        {
+            "path": [
+                2159,
+                2230,
+                2232,
+                2159
+            ],
+            "points": 450,
+            "name": "Donkey Return",
+            "id": 3193
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2104,
+                2103,
+                2165,
+                2157,
+                2062
+            ],
+            "points": 500,
+            "name": "Aux2Elevator",
+            "id": 3264
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2161,
+                2039,
+                2127
+            ],
+            "points": 500,
+            "name": "Sweed",
+            "id": 3239
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2155,
+                2203,
+                2158,
+                2160,
+                2008,
+                2007,
+                2033
+            ],
+            "points": 1000,
+            "name": "Pitbull's Rise",
+            "id": 3429
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2102,
+                2101
+            ],
+            "points": 625,
+            "name": "elf's Centrum",
+            "id": 3432
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2008,
+                2067
+            ],
+            "points": 1100,
+            "name": "Boggy Rise",
+            "id": 3372
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2161,
+                2165,
+                2082
+            ],
+            "points": 950,
+            "name": "Vertex remix",
+            "id": 3512
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2045
+            ],
+            "points": 500,
+            "name": "Hard Zyzz",
+            "id": 3071
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2037,
+                2016
+            ],
+            "points": 800,
+            "name": "Hard Merastorm",
+            "id": 3303
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2005,
+                2100
+            ],
+            "points": 400,
+            "name": "Yet another Rise",
+            "id": 3115
+        },
+        {
+            "path": [
+                2244,
+                2181,
+                2036,
+                2165,
+                2007,
+                2008,
+                2157
+            ],
+            "points": 500,
+            "name": "Wasp Tuna",
+            "id": 3247
+        },
+        {
+            "path": [
+                2057,
+                2039,
+                2038,
+                2065,
+                2036,
+                2101
+            ],
+            "points": 800,
+            "name": "Hard Horse Shit Rise",
+            "id": 3033
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2155,
+                2100,
+                2007,
+                2008,
+                2033
+            ],
+            "points": 1150,
+            "name": "Hard exu Rise",
+            "id": 3365
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2039,
+                2167,
+                2155,
+                2101
+            ],
+            "points": 400,
+            "name": "Groddlike",
+            "id": 3449
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2088
+            ],
+            "points": 400,
+            "name": "The AN1M4L SPLASH",
+            "id": 3344
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2067,
+                2161,
+                2162,
+                2106,
+                2105,
+                2039,
+                2167,
+                2039,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 600,
+            "name": "Spiffid",
+            "id": 3185
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2165,
+                2162,
+                2077
+            ],
+            "points": 800,
+            "name": "eXy Rise",
+            "id": 3333
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2008,
+                2041,
+                2177,
+                2100
+            ],
+            "points": 600,
+            "name": "Hard snurbs revolution",
+            "id": 3137
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2166,
+                2160,
+                2115
+            ],
+            "points": 500,
+            "name": "Banana Return v2",
+            "id": 3234
+        },
+        {
+            "path": [
+                2181,
+                2363,
+                2008
+            ],
+            "points": 300,
+            "name": "Stealth",
+            "id": 3440
+        },
+        {
+            "path": [
+                2173,
+                2155,
+                2167,
+                2039,
+                2004
+            ],
+            "points": 400,
+            "name": "The Mug",
+            "id": 3230
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2005,
+                2158,
+                2155,
+                2145
+            ],
+            "points": 825,
+            "name": "Wet Bread",
+            "id": 3243
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2157,
+                2082,
+                2162,
+                2066
+            ],
+            "points": 500,
+            "name": "penn's Beyblade",
+            "id": 3515
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2232,
+                2221,
+                2160
+            ],
+            "points": 175,
+            "name": "Pro Banana Wrap Remix",
+            "id": 3051
+        },
+        {
+            "path": [
+                2041,
+                2037,
+                2041,
+                2037,
+                2041,
+                2037,
+                2147
+            ],
+            "points": 200,
+            "name": "Circuit Pitstop",
+            "id": 3288
+        },
+        {
+            "path": [
+                2048,
+                2160,
+                2147
+            ],
+            "points": 50,
+            "name": "Newbie Practice",
+            "id": 3061
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2120,
+                2037
+            ],
+            "points": 400,
+            "name": "Squeeze",
+            "id": 3174
+        },
+        {
+            "path": [
+                2045,
+                2041,
+                2160,
+                2166,
+                2052
+            ],
+            "points": 700,
+            "name": "Raptor",
+            "id": 3458
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2155,
+                2164
+            ],
+            "points": 600,
+            "name": "Climb that mountain",
+            "id": 3206
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2129
+            ],
+            "points": 500,
+            "name": "Hard Jail Escape",
+            "id": 3132
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2036,
+                2181,
+                2106,
+                2105,
+                2038,
+                2040,
+                2039,
+                2080
+            ],
+            "points": 700,
+            "name": "Pot noodle",
+            "id": 3304
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2161,
+                2162,
+                2039,
+                2016
+            ],
+            "points": 1000,
+            "name": "WTB yawspeed",
+            "id": 3508
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2165,
+                2008,
+                2156,
+                2038,
+                2065,
+                2161,
+                2005,
+                2156,
+                2158,
+                2161,
+                2100
+            ],
+            "points": 1050,
+            "name": "luckY Deluxe",
+            "id": 3100
+        },
+        {
+            "path": [
+                2146,
+                2016,
+                2147
+            ],
+            "points": 385,
+            "name": "One way ticket to Mario Room",
+            "id": 3366
+        },
+        {
+            "path": [
+                2132,
+                2005,
+                2307,
+                2063
+            ],
+            "points": 500,
+            "name": "LOST",
+            "id": 3217
+        },
+        {
+            "path": [
+                2016,
+                2041,
+                2037
+            ],
+            "points": 400,
+            "name": "Hard Jail Strafe",
+            "id": 3030
+        },
+        {
+            "path": [
+                2177,
+                2116,
+                2177
+            ],
+            "points": 500,
+            "name": "God of Speed Return",
+            "id": 3122
+        },
+        {
+            "path": [
+                2170,
+                2157,
+                2156,
+                2005,
+                2158,
+                2155,
+                2164,
+                2163,
+                2102,
+                2101
+            ],
+            "points": 700,
+            "name": "Nifps' Trip",
+            "id": 3313
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2008,
+                2147
+            ],
+            "points": 750,
+            "name": "Blood & Bone",
+            "id": 3284
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2038,
+                2065,
+                2155,
+                2167,
+                2133,
+                2039,
+                2165,
+                2063
+            ],
+            "points": 350,
+            "name": "Alcatraz",
+            "id": 3499
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2089
+            ],
+            "points": 550,
+            "name": "nigxu rise",
+            "id": 3381
+        },
+        {
+            "path": [
+                2057,
+                2039,
+                2041
+            ],
+            "points": 150,
+            "name": "Spawn Rise",
+            "id": 3105
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2008,
+                2007,
+                2161,
+                2162,
+                2039,
+                2133,
+                2008,
+                2007,
+                2039,
+                2016
+            ],
+            "points": 1200,
+            "name": "Golden Partyhat",
+            "id": 3431
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2039,
+                2041,
+                2004
+            ],
+            "points": 1175,
+            "name": "Double Lupkes",
+            "id": 3516
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2105,
+                2106,
+                2161,
+                2033
+            ],
+            "points": 500,
+            "name": "Hard Main to Sign from Jail",
+            "id": 3282
+        },
+        {
+            "path": [
+                2146,
+                2016,
+                2100
+            ],
+            "points": 250,
+            "name": "One way ticket to Healbot",
+            "id": 3022
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2036,
+                2162,
+                2033
+            ],
+            "points": 650,
+            "name": "Fuckade",
+            "id": 3181
+        },
+        {
+            "path": [
+                2114,
+                2113,
+                2160
+            ],
+            "points": 300,
+            "name": "Banana Strafe",
+            "id": 3246
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2039,
+                2118,
+                2145,
+                2129
+            ],
+            "points": 350,
+            "name": "Double Zolomon",
+            "id": 3347
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2155,
+                2160,
+                2115
+            ],
+            "points": 1250,
+            "name": "Hard King's Banana Return",
+            "id": 3490
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2007,
+                2166
+            ],
+            "points": 700,
+            "name": "Vitality",
+            "id": 3073
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2161
+            ],
+            "points": 150,
+            "name": "T2 Wing Wrap from Jail",
+            "id": 3492
+        },
+        {
+            "path": [
+                2100,
+                2163,
+                2161,
+                2005,
+                2156,
+                2157,
+                2062
+            ],
+            "points": 600,
+            "name": "Nifps' Rise",
+            "id": 3086
+        },
+        {
+            "path": [
+                2004,
+                2167,
+                2039,
+                2156,
+                2157,
+                2062
+            ],
+            "points": 600,
+            "name": "Odisseo's Trip",
+            "id": 3075
+        },
+        {
+            "path": [
+                2259,
+                2166,
+                2067
+            ],
+            "points": 500,
+            "name": "Somebody gag KingW",
+            "id": 3384
+        },
+        {
+            "path": [
+                2059,
+                2008
+            ],
+            "points": 50,
+            "name": "Lake Jump",
+            "id": 3018
+        },
+        {
+            "path": [
+                2009,
+                2233,
+                2079
+            ],
+            "points": 300,
+            "name": "Illuminati Confirmed",
+            "id": 3056
+        },
+        {
+            "path": [
+                2173,
+                2172
+            ],
+            "points": 300,
+            "name": "Annoying",
+            "id": 3125
+        },
+        {
+            "path": [
+                2004,
+                2078
+            ],
+            "points": 50,
+            "name": "Ladder Leap from T Spawn",
+            "id": 3149
+        },
+        {
+            "path": [
+                2060,
+                2131,
+                2064,
+                2267,
+                2008,
+                2226,
+                2066
+            ],
+            "points": 400,
+            "name": "Green light",
+            "id": 3360
+        },
+        {
+            "path": [
+                2257,
+                2157,
+                2063
+            ],
+            "points": 500,
+            "name": "Mini Anime Gap",
+            "id": 3273
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2133,
+                2079,
+                2167,
+                2156
+            ],
+            "points": 500,
+            "name": "Facade Spin",
+            "id": 3183
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2036,
+                2006,
+                2063
+            ],
+            "points": 350,
+            "name": "Facade",
+            "id": 3114
+        },
+        {
+            "path": [
+                2057,
+                2004
+            ],
+            "points": 195,
+            "name": "Spawn Hop",
+            "id": 3076
+        },
+        {
+            "path": [
+                2173,
+                2164,
+                2163,
+                2067
+            ],
+            "points": 350,
+            "name": "Wrath",
+            "id": 3191
+        },
+        {
+            "path": [
+                2251,
+                2007,
+                2165,
+                2044
+            ],
+            "points": 300,
+            "name": "Simple Walk",
+            "id": 3129
+        },
+        {
+            "path": [
+                2155,
+                2133,
+                2039
+            ],
+            "points": 100,
+            "name": "Terminator Bullshit Wrap",
+            "id": 3159
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2038,
+                2150,
+                2130
+            ],
+            "points": 700,
+            "name": "Hard Gun Return",
+            "id": 3103
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2226,
+                2221,
+                2226,
+                2221,
+                2160
+            ],
+            "points": 1350,
+            "name": "Triple Banana Wrap",
+            "id": 3412
+        },
+        {
+            "path": [
+                2155,
+                2363,
+                2008
+            ],
+            "points": 500,
+            "name": "Swifty",
+            "id": 3442
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2008,
+                2147
+            ],
+            "points": 1285,
+            "name": "Blood Money",
+            "id": 3326
+        },
+        {
+            "path": [
+                2039,
+                2133,
+                2185,
+                2133,
+                2039
+            ],
+            "points": 200,
+            "name": "Raskal Wrap",
+            "id": 3043
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2155,
+                2160,
+                2115
+            ],
+            "points": 775,
+            "name": "King's Banana Return",
+            "id": 3489
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2045
+            ],
+            "points": 200,
+            "name": "Zyzz",
+            "id": 3070
+        },
+        {
+            "path": [
+                2081,
+                2040,
+                2038,
+                2180,
+                2065,
+                2036,
+                2082,
+                2036,
+                2082,
+                2036,
+                2082
+            ],
+            "points": 1000,
+            "name": "Triple Awp Rise",
+            "id": 3388
+        },
+        {
+            "path": [
+                2129,
+                2038,
+                2105,
+                2106,
+                2181,
+                2036,
+                2165,
+                2007,
+                2008,
+                2156,
+                2081
+            ],
+            "points": 600,
+            "name": "Gun Walk",
+            "id": 3310
+        },
+        {
+            "path": [
+                2162,
+                2161
+            ],
+            "points": 50,
+            "name": "T2 Wing Wrap",
+            "id": 3186
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2176
+            ],
+            "points": 800,
+            "name": "Pro Banana Return",
+            "id": 3476
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2115
+            ],
+            "points": 400,
+            "name": "Banana Return",
+            "id": 3080
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2004
+            ],
+            "points": 800,
+            "name": "Lupkes",
+            "id": 3013
+        },
+        {
+            "path": [
+                2033,
+                2162,
+                2181,
+                2240
+            ],
+            "points": 450,
+            "name": "90210",
+            "id": 3138
+        },
+        {
+            "path": [
+                2081,
+                2158,
+                2044
+            ],
+            "points": 250,
+            "name": "You tell em Cowboy",
+            "id": 3165
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2118,
+                2145
+            ],
+            "points": 1075,
+            "name": "Mayweather",
+            "id": 3430
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2181,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 350,
+            "name": "eXydos",
+            "id": 3331
+        },
+        {
+            "path": [
+                2059,
+                2006,
+                2116
+            ],
+            "points": 400,
+            "name": "Ice Blast",
+            "id": 3223
+        },
+        {
+            "path": [
+                2116,
+                2157,
+                2156,
+                2033
+            ],
+            "points": 300,
+            "name": "Easy Cyplenkov",
+            "id": 3058
+        },
+        {
+            "path": [
+                2131,
+                2064,
+                2267,
+                2170
+            ],
+            "points": 225,
+            "name": "Brzenk V2",
+            "id": 3143
+        },
+        {
+            "path": [
+                2177,
+                2115,
+                2177
+            ],
+            "points": 285,
+            "name": "Speed Freak Return",
+            "id": 3123
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2052
+            ],
+            "points": 50,
+            "name": "Golden Glider",
+            "id": 3039
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2039,
+                2041
+            ],
+            "points": 200,
+            "name": "Rikishi",
+            "id": 3182
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2165,
+                2063
+            ],
+            "points": 250,
+            "name": "The Retep",
+            "id": 3380
+        },
+        {
+            "path": [
+                2033,
+                2038,
+                2040,
+                2156,
+                2157,
+                2006,
+                2165,
+                2008,
+                2156,
+                2005,
+                2158,
+                2161,
+                2036,
+                2165,
+                2007,
+                2008,
+                2156,
+                2005
+            ],
+            "points": 1250,
+            "name": "Hard exu Walk",
+            "id": 3364
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2036,
+                2165,
+                2162,
+                2033
+            ],
+            "points": 500,
+            "name": "Facade Step-Up",
+            "id": 3180
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2037,
+                2045
+            ],
+            "points": 700,
+            "name": "Merastorm",
+            "id": 3054
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2082,
+                2157,
+                2162,
+                2067
+            ],
+            "points": 300,
+            "name": "Beyblade",
+            "id": 3069
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2007,
+                2275,
+                2007
+            ],
+            "points": 400,
+            "name": "Cyclone",
+            "id": 3167
+        },
+        {
+            "path": [
+                2082,
+                2232,
+                2062
+            ],
+            "points": 400,
+            "name": "Pro Awp Bounce",
+            "id": 3296
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2177,
+                2160,
+                2115
+            ],
+            "points": 700,
+            "name": "V Banana Return",
+            "id": 3472
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2039,
+                2167,
+                2155,
+                2067
+            ],
+            "points": 200,
+            "name": "Grodd",
+            "id": 3448
+        },
+        {
+            "path": [
+                2263,
+                2039,
+                2181,
+                2036,
+                2165,
+                2162,
+                2072
+            ],
+            "points": 1000,
+            "name": "GordanC_h",
+            "id": 3362
+        },
+        {
+            "path": [
+                2173,
+                2164,
+                2161,
+                2158,
+                2039,
+                2127
+            ],
+            "points": 600,
+            "name": "Vampire Diaries",
+            "id": 3367
+        },
+        {
+            "path": [
+                2116,
+                2157,
+                2156,
+                2071
+            ],
+            "points": 800,
+            "name": "Hard Cyplenkov",
+            "id": 3178
+        },
+        {
+            "path": [
+                2081,
+                2005,
+                2156,
+                2008,
+                2007,
+                2165,
+                2181
+            ],
+            "points": 500,
+            "name": "Nifps' Walk",
+            "id": 3034
+        },
+        {
+            "path": [
+                2159,
+                2230,
+                2232,
+                2127
+            ],
+            "points": 400,
+            "name": "Donkey Kong",
+            "id": 3192
+        },
+        {
+            "path": [
+                2155,
+                2038,
+                2065,
+                2103,
+                2066
+            ],
+            "points": 700,
+            "name": "SpudOink's Hole",
+            "id": 3021
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2158,
+                2155,
+                2142,
+                2167,
+                2133,
+                2039,
+                2127
+            ],
+            "points": 400,
+            "name": "Vak's Telehop",
+            "id": 3466
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2165,
+                2157,
+                2005,
+                2033
+            ],
+            "points": 1000,
+            "name": "KingW's Insanity",
+            "id": 3423
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2230,
+                2115
+            ],
+            "points": 600,
+            "name": "Anime Return",
+            "id": 3236
+        },
+        {
+            "path": [
+                2127,
+                2039,
+                2158,
+                2161,
+                2163
+            ],
+            "points": 600,
+            "name": "Cool",
+            "id": 3106
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2065,
+                2036,
+                2006,
+                2232,
+                2156,
+                2065,
+                2036,
+                2006,
+                2232,
+                2147
+            ],
+            "points": 400,
+            "name": "Roxy go home",
+            "id": 3319
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2124,
+                2122,
+                2145
+            ],
+            "points": 1150,
+            "name": "Bullseye from jail floor",
+            "id": 3413
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2039,
+                2082
+            ],
+            "points": 900,
+            "name": "Son of Zeus",
+            "id": 3416
+        },
+        {
+            "path": [
+                2172,
+                2339,
+                2151,
+                2263
+            ],
+            "points": 750,
+            "name": "Learning to Fly",
+            "id": 3424
+        },
+        {
+            "path": [
+                2041,
+                2037,
+                2041
+            ],
+            "points": 75,
+            "name": "Circuit",
+            "id": 3248
+        },
+        {
+            "path": [
+                2076,
+                2102,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 600,
+            "name": "Walk the plank",
+            "id": 3420
+        },
+        {
+            "path": [
+                2181,
+                2363,
+                2059
+            ],
+            "points": 500,
+            "name": "Undercover",
+            "id": 3441
+        },
+        {
+            "path": [
+                2115,
+                2157,
+                2156,
+                2005,
+                2161,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 350,
+            "name": "Venox & Pornii's lovestory",
+            "id": 3189
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2089
+            ],
+            "points": 1025,
+            "name": "Hard Lupkes",
+            "id": 3200
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2150,
+                2065,
+                2077
+            ],
+            "points": 500,
+            "name": "A shortcut to Varrock",
+            "id": 3404
+        },
+        {
+            "path": [
+                2115,
+                2006,
+                2036,
+                2181,
+                2036,
+                2165,
+                2162,
+                2067
+            ],
+            "points": 600,
+            "name": "Soggy toe",
+            "id": 3480
+        },
+        {
+            "path": [
+                2016,
+                2078
+            ],
+            "points": 50,
+            "name": "Ladder Leap from Jail",
+            "id": 3150
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2005,
+                2073
+            ],
+            "points": 1000,
+            "name": "1dayumay",
+            "id": 3514
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2038,
+                2065,
+                2161,
+                2104,
+                2103,
+                2162,
+                2038,
+                2065,
+                2162,
+                2101,
+                2082
+            ],
+            "points": 700,
+            "name": "Hard CC's T2-Spin from spawn",
+            "id": 3227
+        },
+        {
+            "path": [
+                2115,
+                2006,
+                2036,
+                2067
+            ],
+            "points": 1100,
+            "name": "From Rochdale to Ocho Rios",
+            "id": 3486
+        },
+        {
+            "path": [
+                2033,
+                2106,
+                2181,
+                2165,
+                2006
+            ],
+            "points": 400,
+            "name": "NStrafe",
+            "id": 3267
+        },
+        {
+            "path": [
+                2036,
+                2221,
+                2160
+            ],
+            "points": 135,
+            "name": "Cloud Wrap",
+            "id": 3336
+        },
+        {
+            "path": [
+                2057,
+                2039,
+                2038,
+                2065,
+                2036,
+                2100
+            ],
+            "points": 300,
+            "name": "Horse Shit Rise",
+            "id": 3032
+        },
+        {
+            "path": [
+                2173,
+                2155,
+                2167,
+                2156,
+                2158,
+                2155,
+                2240
+            ],
+            "points": 500,
+            "name": "Pure",
+            "id": 3277
+        },
+        {
+            "path": [
+                2129,
+                2038,
+                2040,
+                2039,
+                2167,
+                2141
+            ],
+            "points": 850,
+            "name": "Forgot my P90",
+            "id": 3311
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2039,
+                2118,
+                2039,
+                2118,
+                2145,
+                2129
+            ],
+            "points": 700,
+            "name": "Triple Zolomon",
+            "id": 3348
+        },
+        {
+            "path": [
+                2033,
+                2106,
+                2181,
+                2036,
+                2165,
+                2007,
+                2008,
+                2156,
+                2081
+            ],
+            "points": 600,
+            "name": "Genesis",
+            "id": 3065
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2155,
+                2203,
+                2161,
+                2039,
+                2133,
+                2008,
+                2005,
+                2033
+            ],
+            "points": 500,
+            "name": "We love CC",
+            "id": 3464
+        },
+        {
+            "path": [
+                2171,
+                2116
+            ],
+            "points": 300,
+            "name": "Rebound",
+            "id": 3446
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2118,
+                2145
+            ],
+            "points": 1000,
+            "name": "Zolomon from spawn",
+            "id": 3502
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2008,
+                2157,
+                2062
+            ],
+            "points": 600,
+            "name": "Bogroll Rise",
+            "id": 3202
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2082
+            ],
+            "points": 150,
+            "name": "Escape to AWP",
+            "id": 3221
+        },
+        {
+            "path": [
+                2172,
+                2078
+            ],
+            "points": 300,
+            "name": "Da strafes",
+            "id": 3240
+        },
+        {
+            "path": [
+                2057,
+                2185,
+                2078
+            ],
+            "points": 200,
+            "name": "Ladder Leap from CT Spawn",
+            "id": 3148
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2162,
+                2161,
+                2177,
+                2145
+            ],
+            "points": 700,
+            "name": "Samurai",
+            "id": 3107
+        },
+        {
+            "path": [
+                2263,
+                2039,
+                2181,
+                2036,
+                2165,
+                2162,
+                2067
+            ],
+            "points": 500,
+            "name": "GordanC",
+            "id": 3361
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2161,
+                2162,
+                2156,
+                2062
+            ],
+            "points": 1300,
+            "name": "Sunset",
+            "id": 3471
+        },
+        {
+            "path": [
+                2036,
+                2221,
+                2226,
+                2036
+            ],
+            "points": 175,
+            "name": "Cloud Return",
+            "id": 3337
+        },
+        {
+            "path": [
+                2243,
+                2065,
+                2181,
+                2036,
+                2007,
+                2008,
+                2156,
+                2005,
+                2158,
+                2155,
+                2141
+            ],
+            "points": 400,
+            "name": "Green's Walk",
+            "id": 3391
+        },
+        {
+            "path": [
+                2057,
+                2099,
+                2004
+            ],
+            "points": 100,
+            "name": "Easy Spawn Hop",
+            "id": 3077
+        },
+        {
+            "path": [
+                2173,
+                2164,
+                2163,
+                2076
+            ],
+            "points": 550,
+            "name": "Hard Wrath",
+            "id": 3312
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 300,
+            "name": "Gun Return",
+            "id": 3102
+        },
+        {
+            "path": [
+                2176,
+                2006,
+                2062
+            ],
+            "points": 350,
+            "name": "Drop and Rise",
+            "id": 3201
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2065,
+                2005,
+                2163,
+                2155,
+                2042,
+                2039,
+                2055
+            ],
+            "points": 450,
+            "name": "Yoitsu",
+            "id": 3256
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2155,
+                2008,
+                2041,
+                2016
+            ],
+            "points": 700,
+            "name": "Danhee",
+            "id": 3456
+        },
+        {
+            "path": [
+                2146,
+                2016,
+                2221,
+                2160
+            ],
+            "points": 300,
+            "name": "Chaos wrap",
+            "id": 3475
+        },
+        {
+            "path": [
+                2177,
+                2230
+            ],
+            "points": 225,
+            "name": "Speed Gap",
+            "id": 3120
+        },
+        {
+            "path": [
+                2172,
+                2167,
+                2133,
+                2039,
+                2060
+            ],
+            "points": 500,
+            "name": "Twiistedq can't strafe",
+            "id": 3473
+        },
+        {
+            "path": [
+                2172,
+                2167,
+                2060
+            ],
+            "points": 500,
+            "name": "Da strafes v2",
+            "id": 3478
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2039,
+                2162,
+                2100
+            ],
+            "points": 1175,
+            "name": "Spuds Rise",
+            "id": 3370
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2055,
+                2039,
+                2055,
+                2039
+            ],
+            "points": 500,
+            "name": "Double Pharm Hop",
+            "id": 3350
+        },
+        {
+            "path": [
+                2160,
+                2232,
+                2166,
+                2151,
+                2116,
+                2163,
+                2164,
+                2096
+            ],
+            "points": 700,
+            "name": "The Tomos_h",
+            "id": 3438
+        },
+        {
+            "path": [
+                2004,
+                2167,
+                2133,
+                2039,
+                2158,
+                2155,
+                2145
+            ],
+            "points": 550,
+            "name": "Sock",
+            "id": 3513
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2133,
+                2039
+            ],
+            "points": 100,
+            "name": "Main Wrap from Jail",
+            "id": 3139
+        },
+        {
+            "path": [
+                2257,
+                2008,
+                2007,
+                2008,
+                2156,
+                2040
+            ],
+            "points": 600,
+            "name": "Anime Gap v2",
+            "id": 3205
+        },
+        {
+            "path": [
+                2248,
+                2164,
+                2163,
+                2165,
+                2060
+            ],
+            "points": 1000,
+            "name": "Flight",
+            "id": 3418
+        },
+        {
+            "path": [
+                2004,
+                2097,
+                2089
+            ],
+            "points": 150,
+            "name": "Easy T1 Hop",
+            "id": 3079
+        },
+        {
+            "path": [
+                2131,
+                2064,
+                2267
+            ],
+            "points": 150,
+            "name": "Brzenk",
+            "id": 3142
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2177,
+                2167,
+                2008,
+                2007,
+                2067
+            ],
+            "points": 550,
+            "name": "Nix",
+            "id": 3468
+        },
+        {
+            "path": [
+                2005,
+                2133,
+                2005
+            ],
+            "points": 225,
+            "name": "Weeb-wrap",
+            "id": 3343
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2160,
+                2157,
+                2156,
+                2005,
+                2158,
+                2155,
+                2248
+            ],
+            "points": 950,
+            "name": "A trip to Kevin Ramp",
+            "id": 3212
+        },
+        {
+            "path": [
+                2104,
+                2103,
+                2106,
+                2105
+            ],
+            "points": 50,
+            "name": "T2 Wrap",
+            "id": 3197
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2155,
+                2141,
+                2057,
+                2041,
+                2045
+            ],
+            "points": 325,
+            "name": "Portal to Jail Wall",
+            "id": 3161
+        },
+        {
+            "path": [
+                2052,
+                2181,
+                2096
+            ],
+            "points": 500,
+            "name": "Say my name...",
+            "id": 3322
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2162,
+                2067
+            ],
+            "points": 100,
+            "name": "Orbit",
+            "id": 3301
+        },
+        {
+            "path": [
+                2080,
+                2167,
+                2233,
+                2079
+            ],
+            "points": 500,
+            "name": "Jun glockahashi",
+            "id": 3169
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2098,
+                2128
+            ],
+            "points": 400,
+            "name": "Horizon",
+            "id": 3279
+        },
+        {
+            "path": [
+                2173,
+                2172,
+                2147
+            ],
+            "points": 600,
+            "name": "Annoying Mario",
+            "id": 3244
+        },
+        {
+            "path": [
+                2173,
+                2164,
+                2161,
+                2158,
+                2039,
+                2128
+            ],
+            "points": 1000,
+            "name": "Hard Vampire Diaries",
+            "id": 3368
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2104,
+                2103,
+                2162,
+                2039,
+                2016
+            ],
+            "points": 300,
+            "name": "Easy Rasta Rise",
+            "id": 3252
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2036,
+                2181,
+                2240
+            ],
+            "points": 850,
+            "name": "Super noodles",
+            "id": 3306
+        },
+        {
+            "path": [
+                2178,
+                2148
+            ],
+            "points": 5,
+            "name": "Bhop_SKI",
+            "id": 3028
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2155,
+                2072
+            ],
+            "points": 600,
+            "name": "Trilogy Hole",
+            "id": 3293
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2155,
+                2008,
+                2128
+            ],
+            "points": 1100,
+            "name": "Rapture",
+            "id": 3463
+        },
+        {
+            "path": [
+                2081,
+                2005,
+                2156,
+                2008,
+                2007,
+                2165,
+                2007,
+                2165,
+                2181
+            ],
+            "points": 750,
+            "name": "Hard Nifps' Walk",
+            "id": 3094
+        },
+        {
+            "path": [
+                2059,
+                2006,
+                2096
+            ],
+            "points": 600,
+            "name": "To the MOON",
+            "id": 3500
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 200,
+            "name": "Jail Escape",
+            "id": 3113
+        },
+        {
+            "path": [
+                2269,
+                2271
+            ],
+            "points": 125,
+            "name": "Easy J-Strafe",
+            "id": 3153
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2156,
+                2157,
+                2005,
+                2067
+            ],
+            "points": 1250,
+            "name": "King's Mindfuck",
+            "id": 3491
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2145,
+                2129
+            ],
+            "points": 175,
+            "name": "Zolomon",
+            "id": 3037
+        },
+        {
+            "path": [
+                2045,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 850,
+            "name": "Hard Facade",
+            "id": 3104
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2165,
+                2063
+            ],
+            "points": 400,
+            "name": "The Retep from jail floor",
+            "id": 3406
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2165,
+                2082
+            ],
+            "points": 600,
+            "name": "Vertex",
+            "id": 3485
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2160,
+                2062
+            ],
+            "points": 400,
+            "name": "Banana Gap",
+            "id": 3024
+        },
+        {
+            "path": [
+                2178,
+                2311,
+                2149
+            ],
+            "points": 5,
+            "name": "Bhop_SKI_v2",
+            "id": 3214
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2065,
+                2036,
+                2006,
+                2063
+            ],
+            "points": 50,
+            "name": "Ezier Pz",
+            "id": 3063
+        },
+        {
+            "path": [
+                2039,
+                2316,
+                2167
+            ],
+            "points": 500,
+            "name": "Tricky",
+            "id": 3249
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2007,
+                2082
+            ],
+            "points": 500,
+            "name": "Out of stock",
+            "id": 3066
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2016
+            ],
+            "points": 750,
+            "name": "Mind the cracks",
+            "id": 3298
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2041,
+                2112,
+                2088
+            ],
+            "points": 700,
+            "name": "Mantis",
+            "id": 3235
+        },
+        {
+            "path": [
+                2176,
+                2006,
+                2181
+            ],
+            "points": 500,
+            "name": "Djibril",
+            "id": 3158
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2124,
+                2122,
+                2145
+            ],
+            "points": 500,
+            "name": "Bullseye",
+            "id": 3257
+        },
+        {
+            "path": [
+                2016,
+                2098,
+                2057
+            ],
+            "points": 300,
+            "name": "The Drop",
+            "id": 3462
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2133,
+                2039
+            ],
+            "points": 150,
+            "name": "Main Wrap from spawn",
+            "id": 3317
+        },
+        {
+            "path": [
+                2155,
+                2203,
+                2155
+            ],
+            "points": 50,
+            "name": "Long Wrap",
+            "id": 3044
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2065,
+                2161,
+                2104,
+                2103,
+                2162,
+                2038,
+                2065,
+                2162,
+                2100
+            ],
+            "points": 350,
+            "name": "CC's T2-Spin",
+            "id": 3074
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2039,
+                2162,
+                2100,
+                2165,
+                2006,
+                2157,
+                2156,
+                2039,
+                2167,
+                2271
+            ],
+            "points": 1400,
+            "name": "Hard Spuds Rise",
+            "id": 3417
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2039,
+                2133,
+                2167,
+                2133,
+                2039,
+                2160,
+                2008,
+                2039,
+                2133,
+                2167,
+                2140,
+                2004,
+                2041,
+                2127
+            ],
+            "points": 550,
+            "name": "CC's Paranoia",
+            "id": 3275
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2133,
+                2156
+            ],
+            "points": 450,
+            "name": "Lucifer",
+            "id": 3374
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2045
+            ],
+            "points": 700,
+            "name": "Draynor Village",
+            "id": 3399
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2155,
+                2100
+            ],
+            "points": 750,
+            "name": "exu Rise",
+            "id": 3357
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2232,
+                2226,
+                2221,
+                2232,
+                2160
+            ],
+            "points": 400,
+            "name": "Double Pro Banana Wrap",
+            "id": 3053
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2161,
+                2100
+            ],
+            "points": 1100,
+            "name": "Hard trip to Healbot",
+            "id": 3507
+        },
+        {
+            "path": [
+                2167,
+                2133,
+                2167
+            ],
+            "points": 50,
+            "name": "Spawn Wrap",
+            "id": 3147
+        },
+        {
+            "path": [
+                2016,
+                2041,
+                2008,
+                2005,
+                2158,
+                2039,
+                2133,
+                2039,
+                2052
+            ],
+            "points": 600,
+            "name": "Fox Hound",
+            "id": 3294
+        },
+        {
+            "path": [
+                2061,
+                2131,
+                2064,
+                2230,
+                2160,
+                2155,
+                2016
+            ],
+            "points": 500,
+            "name": "Vacuum cleaner",
+            "id": 3308
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2156,
+                2067
+            ],
+            "points": 300,
+            "name": "Rise",
+            "id": 3096
+        },
+        {
+            "path": [
+                2100,
+                2072,
+                2106,
+                2181,
+                2240
+            ],
+            "points": 700,
+            "name": "assHOLE",
+            "id": 3324
+        },
+        {
+            "path": [
+                2146,
+                2016,
+                2226,
+                2221,
+                2160
+            ],
+            "points": 400,
+            "name": "Chaos wrap remix",
+            "id": 3474
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2179,
+                2039
+            ],
+            "points": 400,
+            "name": "Pro Main Wrap from Jail",
+            "id": 3198
+        },
+        {
+            "path": [
+                2059,
+                2008,
+                2096
+            ],
+            "points": 500,
+            "name": "Lake Jump to Bonus Cube",
+            "id": 3041
+        },
+        {
+            "path": [
+                2176,
+                2006,
+                2157,
+                2081
+            ],
+            "points": 350,
+            "name": "Dropkick",
+            "id": 3154
+        },
+        {
+            "path": [
+                2036,
+                2275,
+                2036
+            ],
+            "points": 200,
+            "name": "Fish Wrap",
+            "id": 3289
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2166
+            ],
+            "points": 250,
+            "name": "Kano",
+            "id": 3108
+        },
+        {
+            "path": [
+                2081,
+                2040,
+                2038,
+                2180,
+                2065,
+                2036,
+                2082,
+                2061
+            ],
+            "points": 750,
+            "name": "AWP Rise Hop",
+            "id": 3387
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2160
+            ],
+            "points": 50,
+            "name": "Banana Wrap",
+            "id": 3047
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2005,
+                2167,
+                2039,
+                2037
+            ],
+            "points": 450,
+            "name": "Sneaky Hamburger",
+            "id": 3112
+        },
+        {
+            "path": [
+                2173,
+                2155,
+                2167,
+                2039,
+                2055
+            ],
+            "points": 550,
+            "name": "Hard Mug",
+            "id": 3231
+        },
+        {
+            "path": [
+                2033,
+                2162,
+                2181,
+                2155,
+                2145
+            ],
+            "points": 1200,
+            "name": "exu's gingivitis",
+            "id": 3487
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2146,
+                2016,
+                2039,
+                2146,
+                2016,
+                2067
+            ],
+            "points": 600,
+            "name": "Hard Wickstead",
+            "id": 3226
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2041,
+                2155,
+                2073,
+                2082
+            ],
+            "points": 950,
+            "name": "h4bkiller",
+            "id": 3421
+        },
+        {
+            "path": [
+                2131,
+                2064,
+                2165
+            ],
+            "points": 200,
+            "name": "Up and out",
+            "id": 3250
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2008,
+                2041,
+                2177,
+                2072
+            ],
+            "points": 225,
+            "name": "Easy snurbs revolution",
+            "id": 3136
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2008,
+                2007,
+                2161,
+                2162,
+                2039,
+                2124,
+                2122,
+                2145
+            ],
+            "points": 650,
+            "name": "Blue Partyhat",
+            "id": 3407
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2155,
+                2067
+            ],
+            "points": 300,
+            "name": "Trilogy",
+            "id": 3292
+        },
+        {
+            "path": [
+                2043,
+                2037,
+                2232,
+                2230
+            ],
+            "points": 350,
+            "name": "Raiden wrap",
+            "id": 3443
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2087
+            ],
+            "points": 225,
+            "name": "The Delf",
+            "id": 3151
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2157,
+                2006,
+                2082,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 550,
+            "name": "A trip to canifis pub",
+            "id": 3400
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2156,
+                2157,
+                2006,
+                2036,
+                2181,
+                2158,
+                2039,
+                2004
+            ],
+            "points": 950,
+            "name": "Reverb",
+            "id": 3332
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2007,
+                2008,
+                2004
+            ],
+            "points": 900,
+            "name": "exu's gay trick",
+            "id": 3484
+        },
+        {
+            "path": [
+                2082,
+                2062
+            ],
+            "points": 150,
+            "name": "Awp Bounce",
+            "id": 3295
+        },
+        {
+            "path": [
+                2043,
+                2037,
+                2113
+            ],
+            "points": 350,
+            "name": "Raiden",
+            "id": 3439
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2055,
+                2039,
+                2055,
+                2039,
+                2055
+            ],
+            "points": 800,
+            "name": "Triple Snowman gap",
+            "id": 3351
+        },
+        {
+            "path": [
+                2172,
+                2151,
+                2155,
+                2036,
+                2008,
+                2037,
+                2112,
+                2339
+            ],
+            "points": 800,
+            "name": "Fluffs Return",
+            "id": 3376
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2004
+            ],
+            "points": 250,
+            "name": "Spawn Return",
+            "id": 3081
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2155,
+                2141,
+                2057,
+                2041,
+                2016
+            ],
+            "points": 225,
+            "name": "Portal",
+            "id": 3160
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2039,
+                2041,
+                2089
+            ],
+            "points": 1225,
+            "name": "Double Hard Lupkes",
+            "id": 3517
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2160,
+                2039,
+                2133,
+                2039,
+                2155,
+                2203,
+                2155
+            ],
+            "points": 250,
+            "name": "Wraps all day",
+            "id": 3092
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2155,
+                2177,
+                2160,
+                2115
+            ],
+            "points": 800,
+            "name": "King's V Banana Return",
+            "id": 3496
+        },
+        {
+            "path": [
+                2146,
+                2016,
+                2127,
+                2179,
+                2133,
+                2167
+            ],
+            "points": 450,
+            "name": "Pleb Wrap",
+            "id": 3501
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2141
+            ],
+            "points": 550,
+            "name": "Pro Zolomon",
+            "id": 3349
+        },
+        {
+            "path": [
+                2131,
+                2064,
+                2115,
+                2114,
+                2113,
+                2230
+            ],
+            "points": 125,
+            "name": "Q-Through",
+            "id": 3128
+        },
+        {
+            "path": [
+                2124,
+                2122,
+                2120,
+                2118
+            ],
+            "points": 900,
+            "name": "Funkeh",
+            "id": 3283
+        },
+        {
+            "path": [
+                2048,
+                2232,
+                2147
+            ],
+            "points": 150,
+            "name": "Psycho Wrap",
+            "id": 3210
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2165,
+                2008,
+                2156,
+                2038,
+                2065,
+                2161,
+                2005,
+                2156,
+                2158,
+                2161
+            ],
+            "points": 325,
+            "name": "luckY's journey",
+            "id": 3098
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2087
+            ],
+            "points": 700,
+            "name": "Hard Delf",
+            "id": 3494
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2033
+            ],
+            "points": 175,
+            "name": "Main to Sign from Jail",
+            "id": 3012
+        },
+        {
+            "path": [
+                2160,
+                2221,
+                2232,
+                2160
+            ],
+            "points": 100,
+            "name": "Pro Banana Wrap",
+            "id": 3050
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2150,
+                2065,
+                2082
+            ],
+            "points": 400,
+            "name": "A shortcut to Falador",
+            "id": 3401
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2005,
+                2167,
+                2039,
+                2128
+            ],
+            "points": 500,
+            "name": "Hard Sneaky Spawn Roof",
+            "id": 3111
+        },
+        {
+            "path": [
+                2057,
+                2039,
+                2146,
+                2016,
+                2160,
+                2116
+            ],
+            "points": 500,
+            "name": "Halloween",
+            "id": 3274
+        },
+        {
+            "path": [
+                2081,
+                2158,
+                2155,
+                2261
+            ],
+            "points": 400,
+            "name": "Pulse",
+            "id": 3164
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2008,
+                2009,
+                2147
+            ],
+            "points": 250,
+            "name": "Mario Walk",
+            "id": 3179
+        },
+        {
+            "path": [
+                2131,
+                2064,
+                2115,
+                2326,
+                2116
+            ],
+            "points": 500,
+            "name": "Elevator Parkour",
+            "id": 3251
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2055,
+                2039
+            ],
+            "points": 200,
+            "name": "Pharm Hop",
+            "id": 3266
+        },
+        {
+            "path": [
+                2155,
+                2203,
+                2210,
+                2203,
+                2210,
+                2203,
+                2155
+            ],
+            "points": 800,
+            "name": "Triple Long Wrap",
+            "id": 3046
+        },
+        {
+            "path": [
+                2052,
+                2354,
+                2052
+            ],
+            "points": 150,
+            "name": "CT Wrap",
+            "id": 3465
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2104,
+                2103,
+                2162,
+                2039,
+                2045
+            ],
+            "points": 550,
+            "name": "Hard Rasta Rise",
+            "id": 3254
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2156,
+                2157,
+                2006,
+                2165,
+                2181
+            ],
+            "points": 175,
+            "name": "Arthas",
+            "id": 3454
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2039,
+                2053
+            ],
+            "points": 1050,
+            "name": "Hard Reverse Jail Escape",
+            "id": 3498
+        },
+        {
+            "path": [
+                2059,
+                2047
+            ],
+            "points": 250,
+            "name": "Hopscotch",
+            "id": 3297
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2104,
+                2103,
+                2106,
+                2105
+            ],
+            "points": 185,
+            "name": "T2 Wrap from Jail",
+            "id": 3145
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2167,
+                2041,
+                2167,
+                2041
+            ],
+            "points": 500,
+            "name": "Double Dip",
+            "id": 3101
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2098,
+                2037
+            ],
+            "points": 550,
+            "name": "Holy Horizon",
+            "id": 3280
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2167,
+                2156,
+                2033
+            ],
+            "points": 775,
+            "name": "Risin' up",
+            "id": 3415
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2127
+            ],
+            "points": 1075,
+            "name": "High Lupkes",
+            "id": 3163
+        },
+        {
+            "path": [
+                2155,
+                2203,
+                2210,
+                2203,
+                2210,
+                2203,
+                2158,
+                2016
+            ],
+            "points": 1200,
+            "name": "exu is triggered",
+            "id": 3390
+        },
+        {
+            "path": [
+                2173,
+                2164,
+                2163,
+                2102,
+                2038,
+                2150,
+                2129
+            ],
+            "points": 500,
+            "name": "Visiting my grandmom",
+            "id": 3375
+        },
+        {
+            "path": [
+                2101,
+                2102,
+                2163,
+                2164,
+                2248,
+                2163,
+                2102,
+                2101
+            ],
+            "points": 400,
+            "name": "Healbot Return",
+            "id": 3453
+        },
+        {
+            "path": [
+                2048,
+                2132,
+                2043,
+                2009,
+                2159,
+                2126,
+                2065
+            ],
+            "points": 300,
+            "name": "Boost Maniac",
+            "id": 3097
+        },
+        {
+            "path": [
+                2052,
+                2060
+            ],
+            "points": 500,
+            "name": "Pacific Ocean Jump",
+            "id": 3340
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2007,
+                2006
+            ],
+            "points": 450,
+            "name": "Left Right",
+            "id": 3211
+        },
+        {
+            "path": [
+                2132,
+                2167,
+                2116
+            ],
+            "points": 500,
+            "name": "Triangle",
+            "id": 3026
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2104,
+                2103,
+                2165,
+                2005,
+                2161,
+                2162,
+                2005,
+                2052
+            ],
+            "points": 500,
+            "name": "Aux' Trip to the Ocean",
+            "id": 3270
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2007,
+                2082
+            ],
+            "points": 950,
+            "name": "Avalanche",
+            "id": 3146
+        },
+        {
+            "path": [
+                2257,
+                2008,
+                2157,
+                2063
+            ],
+            "points": 500,
+            "name": "Anime Gap",
+            "id": 3204
+        },
+        {
+            "path": [
+                2155,
+                2203,
+                2210,
+                2203,
+                2155
+            ],
+            "points": 150,
+            "name": "Double Long Wrap",
+            "id": 3045
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2007,
+                2006,
+                2165,
+                2044
+            ],
+            "points": 900,
+            "name": "Hard Left Right",
+            "id": 3377
+        },
+        {
+            "path": [
+                2052,
+                2133,
+                2156,
+                2096
+            ],
+            "points": 650,
+            "name": "Oceanic Highlife",
+            "id": 3342
+        },
+        {
+            "path": [
+                2182,
+                2039,
+                2162,
+                2161,
+                2039,
+                2052,
+                2155,
+                2067
+            ],
+            "points": 1200,
+            "name": "Hard Sunrise",
+            "id": 3493
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2165,
+                2062
+            ],
+            "points": 500,
+            "name": "Gun High",
+            "id": 3019
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2158,
+                2155,
+                2142,
+                2167,
+                2133,
+                2039,
+                2016
+            ],
+            "points": 650,
+            "name": "Vak's Telehop V2",
+            "id": 3467
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2065,
+                2161,
+                2104,
+                2103,
+                2162,
+                2038,
+                2065,
+                2162,
+                2101,
+                2082
+            ],
+            "points": 600,
+            "name": "CC's Hard T2-Spin",
+            "id": 3083
+        },
+        {
+            "path": [
+                2177,
+                2116
+            ],
+            "points": 350,
+            "name": "God of Speed",
+            "id": 3118
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2156,
+                2157,
+                2082
+            ],
+            "points": 800,
+            "name": "King's Brainfuck",
+            "id": 3503
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2007,
+                2275,
+                2007,
+                2008,
+                2157,
+                2062
+            ],
+            "points": 750,
+            "name": "Hard Cyclone",
+            "id": 3168
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2008,
+                2041,
+                2177,
+                2072
+            ],
+            "points": 400,
+            "name": "snurbs revolution",
+            "id": 3135
+        },
+        {
+            "path": [
+                2132,
+                2113
+            ],
+            "points": 400,
+            "name": "Cross Country",
+            "id": 3015
+        },
+        {
+            "path": [
+                2016,
+                2167,
+                2039,
+                2105,
+                2106,
+                2181,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 1225,
+            "name": "Insane Facade",
+            "id": 3427
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2036,
+                2240
+            ],
+            "points": 950,
+            "name": "Hard Super Noodles",
+            "id": 3330
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2162,
+                2082
+            ],
+            "points": 80,
+            "name": "Beginners Destiny",
+            "id": 3060
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2065,
+                2036,
+                2006,
+                2232,
+                2156,
+                2005,
+                2101
+            ],
+            "points": 450,
+            "name": "Mason's Trip",
+            "id": 3434
+        },
+        {
+            "path": [
+                2065,
+                2150,
+                2129
+            ],
+            "points": 300,
+            "name": "Reverse Gun Room",
+            "id": 3287
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2161,
+                2162,
+                2082
+            ],
+            "points": 500,
+            "name": "Escape to AWP v2",
+            "id": 3455
+        },
+        {
+            "path": [
+                2081,
+                2040,
+                2038,
+                2180,
+                2065,
+                2036,
+                2082,
+                2036,
+                2082
+            ],
+            "points": 800,
+            "name": "Double AWP Rise",
+            "id": 3385
+        },
+        {
+            "path": [
+                2067,
+                2165,
+                2036,
+                2181,
+                2036,
+                2165,
+                2162,
+                2033
+            ],
+            "points": 1150,
+            "name": "Pitbull's Euphoria",
+            "id": 3393
+        },
+        {
+            "path": [
+                2052,
+                2039
+            ],
+            "points": 100,
+            "name": "Ocean Jump",
+            "id": 3064
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2060
+            ],
+            "points": 150,
+            "name": "Long Stretch",
+            "id": 3116
+        },
+        {
+            "path": [
+                2275,
+                2047
+            ],
+            "points": 200,
+            "name": "Thunder",
+            "id": 3188
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2006,
+                2007,
+                2006,
+                2165,
+                2181
+            ],
+            "points": 1000,
+            "name": "Hardest Left Right",
+            "id": 3378
+        },
+        {
+            "path": [
+                2101,
+                2162,
+                2165,
+                2036,
+                2181,
+                2161
+            ],
+            "points": 300,
+            "name": "Stormwind",
+            "id": 3451
+        },
+        {
+            "path": [
+                2244,
+                2181,
+                2036,
+                2165
+            ],
+            "points": 250,
+            "name": "Bumblebee Tuna",
+            "id": 3175
+        },
+        {
+            "path": [
+                2167,
+                2185,
+                2167
+            ],
+            "points": 50,
+            "name": "Spawn Wrap over main",
+            "id": 3300
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2038,
+                2065,
+                2161,
+                2104,
+                2103,
+                2162,
+                2038,
+                2065,
+                2162,
+                2100
+            ],
+            "points": 500,
+            "name": "CC's T2-Spin from spawn",
+            "id": 3225
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2177,
+                2016
+            ],
+            "points": 800,
+            "name": "V Zyzz",
+            "id": 3505
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2167,
+                2122,
+                2124
+            ],
+            "points": 600,
+            "name": "Big Gulps",
+            "id": 3358
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2167,
+                2156,
+                2158,
+                2181,
+                2165,
+                2006,
+                2157,
+                2156,
+                2162,
+                2181,
+                2161,
+                2033
+            ],
+            "points": 1100,
+            "name": "Wedges all day",
+            "id": 3411
+        },
+        {
+            "path": [
+                2177,
+                2115
+            ],
+            "points": 200,
+            "name": "Speed Freak",
+            "id": 3119
+        },
+        {
+            "path": [
+                2132,
+                2147
+            ],
+            "points": 150,
+            "name": "Corner to Corner",
+            "id": 3124
+        },
+        {
+            "path": [
+                2251,
+                2007,
+                2165,
+                2007,
+                2165,
+                2044
+            ],
+            "points": 475,
+            "name": "Hard Simple Walk",
+            "id": 3130
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2005,
+                2167,
+                2039,
+                2127
+            ],
+            "points": 385,
+            "name": "Sneaky Spawn Roof",
+            "id": 3110
+        },
+        {
+            "path": [
+                2016,
+                2041
+            ],
+            "points": 75,
+            "name": "Jail Strafe",
+            "id": 3209
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2008,
+                2232,
+                2008
+            ],
+            "points": 500,
+            "name": "Guntower Wrap",
+            "id": 3488
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2157,
+                2160
+            ],
+            "points": 600,
+            "name": "Hadouken!",
+            "id": 3131
+        },
+        {
+            "path": [
+                2177,
+                2113
+            ],
+            "points": 300,
+            "name": "Speed Scout",
+            "id": 3121
+        },
+        {
+            "path": [
+                2045,
+                2039,
+                2105,
+                2106,
+                2132
+            ],
+            "points": 400,
+            "name": "Aux2Booster",
+            "id": 3262
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2005,
+                2158,
+                2155,
+                2141
+            ],
+            "points": 500,
+            "name": "Easy Wet Bread",
+            "id": 3242
+        },
+        {
+            "path": [
+                2082,
+                2007,
+                2008,
+                2157,
+                2232,
+                2157
+            ],
+            "points": 1150,
+            "name": "Bogroll Wrap",
+            "id": 3422
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2039,
+                2016
+            ],
+            "points": 450,
+            "name": "Reverse Jail Escape",
+            "id": 3497
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2118,
+                2120,
+                2145,
+                2129
+            ],
+            "points": 275,
+            "name": "Advanced Zolomon",
+            "id": 3038
+        },
+        {
+            "path": [
+                2039,
+                2179,
+                2039
+            ],
+            "points": 80,
+            "name": "Pro Main Wrap",
+            "id": 3042
+        },
+        {
+            "path": [
+                2101,
+                2162,
+                2174
+            ],
+            "points": 300,
+            "name": "Red Light",
+            "id": 3396
+        },
+        {
+            "path": [
+                2177,
+                2232,
+                2160
+            ],
+            "points": 225,
+            "name": "Pro Speed Wrap",
+            "id": 3291
+        },
+        {
+            "path": [
+                2004,
+                2039,
+                2155,
+                2203,
+                2155
+            ],
+            "points": 325,
+            "name": "Long Wrap from spawn",
+            "id": 3305
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2165,
+                2105,
+                2106,
+                2181,
+                2036,
+                2082
+            ],
+            "points": 400,
+            "name": "Odisseo",
+            "id": 3059
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2062,
+                2061
+            ],
+            "points": 1150,
+            "name": "Dream Killer",
+            "id": 3433
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2104,
+                2103,
+                2162,
+                2039,
+                2053
+            ],
+            "points": 400,
+            "name": "Rasta Rise",
+            "id": 3253
+        },
+        {
+            "path": [
+                2111,
+                2112,
+                2037,
+                2117
+            ],
+            "points": 500,
+            "name": "Firestorm",
+            "id": 3036
+        },
+        {
+            "path": [
+                2177,
+                2221,
+                2160
+            ],
+            "points": 200,
+            "name": "Speed Wrap",
+            "id": 3290
+        },
+        {
+            "path": [
+                2173,
+                2155,
+                2158,
+                2005,
+                2156,
+                2157,
+                2036,
+                2181,
+                2161,
+                2033
+            ],
+            "points": 850,
+            "name": "Unleashed",
+            "id": 3184
+        },
+        {
+            "path": [
+                2052,
+                2047
+            ],
+            "points": 400,
+            "name": "Survive",
+            "id": 3329
+        },
+        {
+            "path": [
+                2155,
+                2203,
+                2210,
+                2203,
+                2210,
+                2203,
+                2158
+            ],
+            "points": 900,
+            "name": "Hard Triple Long Wrap",
+            "id": 3345
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2036,
+                2006,
+                2157,
+                2156,
+                2005,
+                2042
+            ],
+            "points": 500,
+            "name": "Louie's Rise",
+            "id": 3477
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2256,
+                2081,
+                2243,
+                2065,
+                2254,
+                2006,
+                2232,
+                2156,
+                2039,
+                2016
+            ],
+            "points": 400,
+            "name": "Tip Return",
+            "id": 3320
+        },
+        {
+            "path": [
+                2004,
+                2167,
+                2133,
+                2167
+            ],
+            "points": 300,
+            "name": "Spawn Wrap from spawn",
+            "id": 3245
+        },
+        {
+            "path": [
+                2039,
+                2316
+            ],
+            "points": 225,
+            "name": "Secret Gap",
+            "id": 3228
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2039,
+                2133,
+                2167,
+                2133,
+                2039,
+                2160,
+                2008,
+                2039,
+                2133,
+                2167,
+                2140,
+                2004,
+                2041,
+                2045
+            ],
+            "points": 1000,
+            "name": "Hard CC's Paranoia",
+            "id": 3276
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2166,
+                2045
+            ],
+            "points": 700,
+            "name": "Hard Zyzz v2",
+            "id": 3482
+        },
+        {
+            "path": [
+                2039,
+                2133,
+                2039
+            ],
+            "points": 50,
+            "name": "Main Wrap",
+            "id": 3010
+        },
+        {
+            "path": [
+                2016,
+                2041,
+                2156,
+                2038,
+                2065,
+                2155,
+                2039,
+                2065,
+                2155,
+                2151,
+                2096
+            ],
+            "points": 900,
+            "name": "Bonus Bullseye",
+            "id": 3285
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2041,
+                2094
+            ],
+            "points": 1125,
+            "name": "Harder Lupkes",
+            "id": 3426
+        },
+        {
+            "path": [
+                2248,
+                2164,
+                2163,
+                2102,
+                2101
+            ],
+            "points": 500,
+            "name": "Awesome",
+            "id": 3134
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2166,
+                2045
+            ],
+            "points": 400,
+            "name": "Zyzz v2",
+            "id": 3481
+        },
+        {
+            "path": [
+                2064,
+                2131,
+                2061,
+                2060
+            ],
+            "points": 250,
+            "name": "Reverse Elevator",
+            "id": 3014
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2161,
+                2102,
+                2101
+            ],
+            "points": 550,
+            "name": "A trip to Healbot",
+            "id": 3195
+        },
+        {
+            "path": [
+                2116,
+                2160,
+                2116
+            ],
+            "points": 1150,
+            "name": "High Banana Return",
+            "id": 3355
+        },
+        {
+            "path": [
+                2116,
+                2157,
+                2221,
+                2160,
+                2162,
+                2082
+            ],
+            "points": 400,
+            "name": "Vertigo",
+            "id": 3444
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2162,
+                2161,
+                2162,
+                2039,
+                2264
+            ],
+            "points": 1250,
+            "name": "WTB yawspeed v2",
+            "id": 3509
+        },
+        {
+            "path": [
+                2269,
+                2141
+            ],
+            "points": 300,
+            "name": "J-Strafe",
+            "id": 3152
+        },
+        {
+            "path": [
+                2067,
+                2165,
+                2006,
+                2063
+            ],
+            "points": 300,
+            "name": "Strafe Sign Rise",
+            "id": 3392
+        },
+        {
+            "path": [
+                2067,
+                2161,
+                2039,
+                2167,
+                2039,
+                2038,
+                2150
+            ],
+            "points": 600,
+            "name": "Cthulhu",
+            "id": 3095
+        },
+        {
+            "path": [
+                2176,
+                2006,
+                2063
+            ],
+            "points": 200,
+            "name": "Easy Drop and Rise",
+            "id": 3156
+        },
+        {
+            "path": [
+                2052,
+                2354,
+                2167
+            ],
+            "points": 150,
+            "name": "Fancy",
+            "id": 3445
+        },
+        {
+            "path": [
+                2132,
+                2133,
+                2039
+            ],
+            "points": 300,
+            "name": "Oxygen Wrap",
+            "id": 3218
+        },
+        {
+            "path": [
+                2129,
+                2150,
+                2065,
+                2165,
+                2063
+            ],
+            "points": 150,
+            "name": "Easy Gun High",
+            "id": 3020
+        },
+        {
+            "path": [
+                2041,
+                2230,
+                2155,
+                2230,
+                2226,
+                2221,
+                2007,
+                2147
+            ],
+            "points": 900,
+            "name": "eXy's Tornado",
+            "id": 3341
+        },
+        {
+            "path": [
+                2033,
+                2038,
+                2040,
+                2156,
+                2157,
+                2006,
+                2165,
+                2008,
+                2156,
+                2005,
+                2158,
+                2161
+            ],
+            "points": 800,
+            "name": "exu Walk",
+            "id": 3363
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2038,
+                2065,
+                2036,
+                2006,
+                2062
+            ],
+            "points": 100,
+            "name": "Ez Pz",
+            "id": 3062
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2162,
+                2067
+            ],
+            "points": 200,
+            "name": "Centrum",
+            "id": 3222
+        },
+        {
+            "path": [
+                2116,
+                2157,
+                2156,
+                2067
+            ],
+            "points": 600,
+            "name": "Cyplenkov",
+            "id": 3057
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2155,
+                2203,
+                2155
+            ],
+            "points": 100,
+            "name": "Long Wrap from Jail",
+            "id": 3321
+        },
+        {
+            "path": [
+                2100,
+                2067,
+                2082,
+                2033,
+                2052,
+                2167,
+                2256,
+                2081,
+                2243,
+                2065,
+                2036,
+                2251,
+                2059
+            ],
+            "points": 500,
+            "name": "Donrear Parkour",
+            "id": 3170
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2105,
+                2106,
+                2161,
+                2067
+            ],
+            "points": 800,
+            "name": "Centrum Remix",
+            "id": 3506
+        },
+        {
+            "path": [
+                2115,
+                2160,
+                2155,
+                2082
+            ],
+            "points": 500,
+            "name": "Weaver",
+            "id": 3495
+        },
+        {
+            "path": [
+                2033,
+                2106,
+                2181,
+                2007
+            ],
+            "points": 650,
+            "name": "NStrafe v2",
+            "id": 3269
+        },
+        {
+            "path": [
+                2016,
+                2039,
+                2055,
+                2039,
+                2055
+            ],
+            "points": 350,
+            "name": "Double Snowman gap",
+            "id": 3278
+        },
+        {
+            "path": [
+                2172,
+                2041,
+                2155,
+                2008,
+                2041,
+                2045
+            ],
+            "points": 1300,
+            "name": "Danhee v2",
+            "id": 3457
+        },
+        {
+            "path": [
+                2116,
+                2157,
+                2082
+            ],
+            "points": 700,
+            "name": "Boneshock",
+            "id": 3177
+        }
+    ]
+}
