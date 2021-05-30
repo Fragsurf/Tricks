@@ -1,7 +1,7 @@
 ---
 name: Trick Request
 about: Suggest a trick for a map
-title: "[TRICK] "
+title: ''
 labels: new trick
 assignees: ''
 
